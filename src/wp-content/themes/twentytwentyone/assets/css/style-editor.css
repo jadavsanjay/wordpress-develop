@@ -1403,6 +1403,11 @@ dt {
 	margin-bottom: revert;
 }
 
+.wp-block-list [data-block] {
+	margin-top: revert;
+	margin-bottom: revert;
+}
+
 .wp-block-navigation .wp-block-navigation__container {
 	background: var(--global--color-background);
 }
